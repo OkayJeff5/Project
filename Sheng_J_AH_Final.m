@@ -1,6 +1,6 @@
-% AIS 1243
-% Signture experience Project - Air hockey Game
-% Jeff Sheng
+
+% Air hockey Game
+
 
 clc
 clear
